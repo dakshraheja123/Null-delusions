@@ -1,6 +1,5 @@
-# Gemini Desk
-
-Gemini Desk is a small local chat application built with FastAPI and a browser-based chat interface. It sends user messages to Google's Gemini API, displays the response, and can run Python snippets returned for deterministic questions.
+# Null Delusions
+Null Delusions is a small local chat application built with FastAPI and a browser-based chat interface. It sends user messages to Google's Gemini API, displays the response, and can run Python snippets returned for deterministic questions.
 
 ## Features
 
